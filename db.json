@@ -7,12 +7,12 @@
       "role": "manager",
       "email": "amir008@gmail.com",
       "rpassword": "12345678",
-      "city": "mashhad"
+      "city": "isfahan"
     },
     {
       "id": "aliiiiii",
       "fullname": "mahdibijani",
-      "email": "mohammadmahdi836@gmail.com",
+      "email": "example@gmail.com",
       "password": "12345678",
       "rpassword": "12345678",
       "role": "normalUser",
@@ -21,7 +21,7 @@
     {
       "id": "mahdi",
       "fullname": "mahdibijani",
-      "email": "mohammadmahdi836638@gmail.com",
+      "email": "example@gmail.com",
       "password": "12345678",
       "rpassword": "12345678",
       "role": "manager",
@@ -29,7 +29,7 @@
     },
     {
       "id": "rrrr",
-      "email": "mohammadmahdi836@gmail.com",
+      "email": "example@gmail.com",
       "fullname": "mahdibijani",
       "password": "mahdi1381",
       "rpassword": "mahdi1381",
@@ -38,7 +38,7 @@
     },
     {
       "id": "ali",
-      "email": "mohammadmahdi836638@gmail.com",
+      "email": "example@gmail.com",
       "fullname": "mahdibijani",
       "password": "ali13799",
       "rpassword": "ali13799",
