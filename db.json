@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "amir",
+      "fullname": "amirKazemi",
+      "password": "12345678",
+      "role": "manager",
+      "email": "amir008@gmail.com",
+      "rpassword": "12345678",
+      "city": "mashhad"
+    },
+    {
+      "id": "aliiiiii",
+      "fullname": "mahdibijani",
+      "email": "mohammadmahdi836@gmail.com",
+      "password": "12345678",
+      "rpassword": "12345678",
+      "role": "normalUser",
+      "city": "mashhad"
+    },
+    {
+      "id": "mahdi",
+      "fullname": "mahdibijani",
+      "email": "mohammadmahdi836638@gmail.com",
+      "password": "mahdi1381",
+      "rpassword": "mahdi1381",
+      "role": "manager",
+      "city": "mashhad"
+    },
+    {
+      "id": "rrrr",
+      "email": "mohammadmahdi836@gmail.com",
+      "fullname": "mahdibijani",
+      "password": "mahdi1381",
+      "rpassword": "mahdi1381",
+      "role": "normalUser",
+      "city": "mashhad"
+    },
+    {
+      "id": "ali",
+      "email": "mohammadmahdi836638@gmail.com",
+      "fullname": "mahdibijani",
+      "password": "ali13799",
+      "rpassword": "ali13799",
+      "role": "normalUser",
+      "city": "tehran"
+    },
+    {
+      "id": "arash",
+      "email": "we@sas.com",
+      "fullname": "mahdibijani",
+      "password": "12345678",
+      "rpassword": "12345678",
+      "role": "normalUser",
+      "city": "tehran"
+    },
+    {
+      "id": "ttt",
+      "email": "arash@gmail.com",
+      "fullname": "tttddd",
+      "password": "12345678",
+      "rpassword": "12345678",
+      "role": "normalUser",
+      "city": "tehran"
+    }
+  ]
+}
